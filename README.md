@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdrianKarandish/AdrianKarandish/main/assets/header.svg" alt="Adrian Karandish — Co-founder and CEO of Adrima. Complex information. Clearer decisions." width="100%" />
+  <img src="https://raw.githubusercontent.com/AdrianKarandish/AdrianKarandish/main/assets/header.svg?v=adrima-pixel" alt="Adrian Karandish — Co-founder and CEO of Adrima. Complex information. Clearer decisions." width="100%" />
 </p>
 
 <p align="center">
