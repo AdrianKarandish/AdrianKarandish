@@ -22,21 +22,22 @@ I'm studying **mathematical applications in economics and finance at the Univers
 
 A platform for financial and document-heavy businesses. We're connecting scattered client information so teams can find answers across documents and systems, with clear references to the sources behind them.
 
-My current focus includes document intelligence, retrieval-augmented generation (RAG), OCR, and practical client-service workflows.
+At Adrima, my focus is understanding financial workflows and turning client needs into practical product decisions.
 
 **[RiskPulse](https://github.com/AdrianKarandish/RiskPulse) · Financial risk analytics**
 
-A Python CLI and Streamlit app for comparing a stock's risk and performance against the S&P 500. It brings together drawdowns, volatility, downside risk, interactive charts, and downloadable analysis.
+A financial risk analysis project for comparing a stock's risk and performance against the S&P 500. It brings together drawdowns, volatility, downside risk, interactive charts, and downloadable analysis.
 
-`Python` `pandas` `NumPy` `Streamlit` `Plotly`
+### Skills & analytical focus
 
-### Skills & tools
+**Finance & operations:** Financial analysis · US tax operations · Excel / VBA · workflow analysis
 
-| Software & data | Applied AI | Finance & product |
-| :--- | :--- | :--- |
-| Python · TypeScript · SQL | RAG · document intelligence | Financial analysis · risk analytics |
-| pandas · NumPy · Plotly | OCR · source-backed answers | Investment operations · US tax operations |
-| Streamlit · Node.js · PostgreSQL | AI integration · evaluation | Excel / VBA · workflow automation |
+Through my **[U of T studies](https://artsci.calendar.utoronto.ca/program/asspe1700)**, I'm developing my foundation in:
+
+- **Probability & statistical inference** — reasoning about uncertainty and interpreting data.
+- **Regression & time-series analysis** — studying relationships and patterns over time.
+- **Mathematical modelling & optimization** — using mathematics to frame and solve economic problems.
+- **Financial economics** — connecting quantitative methods with financial decisions.
 
 ### Let's connect
 
