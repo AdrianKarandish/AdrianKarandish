@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdrianKarandish/AdrianKarandish/dd9f631121c686fe719ab38c25316d0d47f40fdd/assets/header.svg" alt="Adrian Karandish — Co-founder and CEO of Adrima. Complex information. Clearer decisions." width="100%" />
+  <picture>
+    <source srcset="assets/header-animated.svg" type="image/svg+xml" />
+    <img src="assets/header.svg" alt="Adrian Karandish — Co-founder and CEO of Adrima. Complex information. Clearer decisions." width="100%" />
+  </picture>
 </p>
 
 <p align="center">
