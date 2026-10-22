@@ -1,6 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="assets/header-animated.svg" type="image/svg+xml" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-animated.svg" type="image/svg+xml" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-animated.svg" type="image/svg+xml" />
     <img src="assets/header.svg" alt="Adrian Karandish — Co-founder and CEO of Adrima. Complex information. Clearer decisions." width="100%" />
   </picture>
 </p>
